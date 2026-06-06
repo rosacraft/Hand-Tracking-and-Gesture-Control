@@ -30,7 +30,7 @@ pip install opencv-python mediapipe numpy pycaw comtypes
 ## Run Project
 
 Run the main script:
-python main.py
+python main.ipynb
 Make sure your webcam is connected.
 
 ## Controls
